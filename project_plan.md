@@ -7,9 +7,10 @@ and surfaces relevant information for our organization without manual checking.
 ---
 
 ## Phase 1: Research & Site Structure (CURRENT)
-**Goal:** Understand how ILGA.gov is structured before writing any real scraper.
+**Goal:** Understand how ILGA.gov is structured before writing the scraper tool to pull the data.
 
-### Tasks
+### Tasks 
+[Feb 25-26, 2026]
 - [~] Check if ILGA.gov exposes an XML sitemap (`/sitemap.xml` or `/robots.txt`)
 - [~] Check if there are RSS or XML data feeds
 - [✓] Manually inspect 2-3 bill pages and note their HTML structure
