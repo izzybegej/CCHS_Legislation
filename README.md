@@ -35,7 +35,7 @@ Initially targeting for organizations in the **52nd Senate / 103rd House distric
 
 ### Installation
 ```bash
-git clone https://github.com/YOUR_USERNAME/il-bill-tracker.git
+git clone https://github.com/IzzyBegej/il-bill-tracker.git
 cd il-bill-tracker
 pip install -r requirements.txt
 python src/scraper.py
